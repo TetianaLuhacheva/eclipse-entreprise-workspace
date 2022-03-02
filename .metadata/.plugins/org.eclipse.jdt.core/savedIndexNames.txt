@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\_SYSTEME\courses\develepeur full stack\eclipse-entreprise-workspace\.metadata\.plugins\org.eclipse.jdt.core
+3100893958.index
+885733619.index
+1865797976.index
